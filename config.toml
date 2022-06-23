@@ -1,6 +1,6 @@
-baseURL = "https://danysk.github.io/Template-Hugo-Reveal-Slides"
+baseURL = "https://danysk.github.io/Course-PhD-DevOps-Scientific-Research"
 languageCode = "en-us"
-title = "A Hugo theme for creating Reveal.js presentations"
+title = "DevOps meets scientific research"
 disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
 publishDir = "build"
@@ -30,7 +30,7 @@ isHTML = true
 
 [params.reveal_hugo]
 history = true
-theme = "league"
+theme = "white"
 highlight_theme = "solarized-dark"
 slide_number = true
 transition = "slide"
