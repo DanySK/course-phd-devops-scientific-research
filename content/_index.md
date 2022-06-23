@@ -10,6 +10,8 @@ aliases = [
 
 +++
 
+{{% import path="shared-slides/devops/devops-intro.md" %}}
+
 
 # Short guide to Markdown slides
 
