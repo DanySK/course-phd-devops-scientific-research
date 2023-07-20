@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "custom-theme.css",
-	"sourceRoot": "/home/runner/work/Course-PhD-DevOps-Scientific-Research/Course-PhD-DevOps-Scientific-Research",
+	"sourceRoot": "/home/runner/work/course-phd-devops-scientific-research/course-phd-devops-scientific-research",
 	"sources": [
 		"assets/custom-theme.scss",
 		"themes/reveal-hugo/assets/reveal-js/css/theme/template/mixins.scss",
