@@ -1,4 +1,4 @@
-baseURL = "https://danysk.github.io/Course-PhD-DevOps-Scientific-Research"
+baseURL = "https://danysk.github.io/course-phd-devops-scientific-research"
 languageCode = "en-us"
 title = "DevOps meets scientific research"
 disableKinds = ["sitemap", "RSS"]
